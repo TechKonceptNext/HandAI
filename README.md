@@ -42,16 +42,15 @@ Ensure you have the following installed:
 ```bash
 git clone https://github.com/yourusername/HandAI.git
 cd HandAI
-pip install -r requirements.txt
 ```
 
 ### 🔹 Run the App
 
 ```bash
-python app.py
+install the apk from the playstore
 ```
 
-Visit `http://localhost:5000` to use the app.
+
 
 ## 🤝 Contributing
 
