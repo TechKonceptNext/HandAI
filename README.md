@@ -1,6 +1,6 @@
 # HandAI - Deep Reinforcement Powered Sign Language Translation App 🎯🤟
 
-![HandAI Demo](assets/demo_handai.gif)
+![HandAI Demo](assets/demo_handai2.gif)
 
 ## 🚀 Overview
 
