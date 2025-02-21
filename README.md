@@ -1,6 +1,6 @@
 # HandAI - Deep Reinforcement Powered Sign Language Translation App 🎯🤟
 
-![HandAI Demo](assets/demo.gif)
+![HandAI Demo](assets/demo_handai.gif)
 
 ## 🚀 Overview
 
@@ -25,7 +25,7 @@
 
 ![HandAI In Action](assets/demo.gif)
 
-> 🎥 [Click here to watch the full demo](https://your-demo-link.com) (Replace with actual link)
+> 🎥 [Click here to watch the full demo](https://drive.google.com/file/d/1trQTNjv-4DA1bCYkpOiY254u56gj7XBj/view) 
 
 ## 🏗️ Installation & Usage
 
